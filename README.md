@@ -29,3 +29,17 @@ sulphates: Sulphates content
 alcohol: Alcohol content
 
 quality: Quality rating of the wine
+# Dependencies
+The project requires the following Python libraries:
+
+numpy
+
+pandas
+
+matplotlib
+
+seaborn
+
+scikit-learn
+
+xgboost
